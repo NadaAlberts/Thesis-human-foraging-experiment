@@ -1,0 +1,8 @@
+In these files analysis data is stored consisting out of
+Latitude          Determined by the GPS tracker in the WGS 84 coordinate system
+Longitude	  Determined by the GPS tracker in the WGS 84 coordinate system
+Group cluster	  Ranging from group cluster 1-4, which can be observed in appendix A
+Found	          The sequence of collected ribbons, ranging form 1-20 
+Shortest_distance Measured by measuring the distance directly between point A and point B (formula explained in the method section)
+Actual_distance	  Distance between point A and point B as measured by the GPS trackers on the participants
+Relative_distance Actual distance/shortest distance
