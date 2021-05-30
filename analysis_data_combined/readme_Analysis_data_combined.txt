@@ -1,0 +1,1 @@
+In these files analysis data is stored by online showing the day and the relative distance, which is stored both corrected as uncorrected in this file.
